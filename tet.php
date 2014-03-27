@@ -1,5 +1,5 @@
 function a() {
-	echo 1;
+	echo "abc";
 }
 
 
