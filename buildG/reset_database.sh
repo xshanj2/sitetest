@@ -1,3 +1,4 @@
+# comment by 24kcer...
 #!/bin/sh
 
 SCRIPTPATH=`dirname $0`
