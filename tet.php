@@ -4,5 +4,5 @@ function a() {
 
 
 function b() {
-	echo 2;
+	echo 'BCD';
 }
